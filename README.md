@@ -56,23 +56,6 @@ datepicker-ui/
 - Using `box-sizing: border-box` and a CSS reset for predictable sizing
 - Spacing elements with `gap` and `margin`
 
-## Customization
-
-Feel free to change the colors, fonts, and sizes in `style.css`. For example:
-
-- Adjust `.item` width and height to resize the date cells
-- Change the border colors to match your own theme
-- Update the month and the leading empty cells in `index.html` to show a different month
-
-## Future Improvements
-
-- Add JavaScript to generate dates for any month and year
-- Make the previous/next arrows change the month
-- Highlight today's date and the selected date
-- Fill the input when a date is clicked
-- Show and hide the calendar when the icon is clicked
-- Make the layout responsive for smaller screens
-
 ## Author
 
 Kunal Guhagarkar
