@@ -3,6 +3,7 @@
 A static datepicker UI built with only **HTML** and **CSS**. It is not functional yet, it is a visual foundation to be enhanced with JavaScript in a future project.
 
 **Project URL:** https://roadmap.sh/projects/datepicker-ui
+
 **Repository:** https://github.com/KunalGuhagarkar/Datepicker-UI
 
 ## Preview
