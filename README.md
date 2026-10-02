@@ -40,7 +40,7 @@ datepicker-ui/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KunalGuhagarkar/Datepicker-UI
+   git clone https://github.com/KunalGuhagarkar/Datepicker-UI.git
    ```
 2. Navigate into the folder:
    ```bash
